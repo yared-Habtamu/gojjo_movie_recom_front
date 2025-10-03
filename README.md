@@ -1,1 +1,1 @@
-# gojjo_movie_recom_front
+# gojjo_cinema_front
